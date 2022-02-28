@@ -12,7 +12,7 @@ console.log('ACME company payment system \n use your document (.txt) with the in
 
 
 // reads the path to the file to work with test file
-Interface.question("Enter the file path if you want to use the default copy and paste the following path (test.txt)=> ", (path) => {
+Interface.question("Enter the file path if you want to use the default copy and paste the following path (test.txt): ", (path) => {
     let filepath = path;
 
     //read the file
