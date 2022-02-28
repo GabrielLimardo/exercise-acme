@@ -13,3 +13,5 @@ Use de default test.txt in the root folder
 
 Example:
 ![image](https://user-images.githubusercontent.com/60992367/156005706-f429df18-7766-4607-9812-862e799a4a16.png)
+
+Methodology used:
