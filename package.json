@@ -1,0 +1,23 @@
+{
+  "name": "exercise-acme",
+  "version": "1.0.0",
+  "description": "Exercise created by Gabriel Agustin Limardo de Casas for the incorporation in the IOET company",
+  "main": "constants.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielLimardo/exercise-acme.git"
+  },
+  "author": "Gabriel Agustin Limardo de Casas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GabrielLimardo/exercise-acme/issues"
+  },
+  "homepage": "https://github.com/GabrielLimardo/exercise-acme#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
